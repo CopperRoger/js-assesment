@@ -39,5 +39,7 @@ function getTotalSupply() {
 // call your functions below this line
 mintNFT("nft1",1000);
 mintNFT("nft2",1200);
+mintNFT("nft2",1100);
 getTotalSupply();
 listNFTs();
+
